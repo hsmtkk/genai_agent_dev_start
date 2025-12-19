@@ -1,0 +1,7 @@
+tiktoken
+streamlit
+langchain-core
+langchain-openai
+langchain-anthropic
+langchain-google-genai
+python-dotenv
